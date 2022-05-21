@@ -1,0 +1,11 @@
+body {
+ background-color: blue;
+ color: black;
+ padding: 0;
+ margin: 0;
+ align-content: center;
+}
+
+div {
+ text-align: center;
+}
